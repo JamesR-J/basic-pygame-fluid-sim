@@ -3,8 +3,9 @@ simple tryout of using pygame to create a fluid sim
 
 Controls:
 * G - turns on fluid flow to the right
-* Left Click - creates consecutive straight line walls
+* Left Click - creates consecutive straight line walls point by point
 * Delete - stops the consecutive wall chain so you can start a new one
+* ESC - Exits the game
 
 Currently no interaction with user placed walls
 
