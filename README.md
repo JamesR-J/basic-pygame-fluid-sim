@@ -16,5 +16,5 @@ Currently just collision based particles, nothing fancy
 ## Useage
 * Run main_game_2.py
 
-## Requirements
+## Libraries
 * Pygame
