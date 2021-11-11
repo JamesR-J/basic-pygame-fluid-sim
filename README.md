@@ -9,3 +9,9 @@ Controls:
 Currently no interaction with user placed walls
 
 Adjusting the parameters.py file adjusts particle size, speed, etc
+
+## Useage
+* Run main_game_2.py
+
+## Requirements
+* Pygame
