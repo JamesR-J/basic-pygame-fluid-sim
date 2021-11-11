@@ -14,6 +14,8 @@ Adjusting the parameters.py file adjusts particle size, speed, etc
 Currently just collision based particles, nothing fancy
 
 ## Useage
+* Adjust display_size.py to suite your monitor best
+* Adjust any parameters in parameters.py for desired fluid properties
 * Run main_game_2.py
 
 ## Libraries
