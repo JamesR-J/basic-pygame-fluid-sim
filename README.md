@@ -11,6 +11,8 @@ Currently no interaction with user placed walls
 
 Adjusting the parameters.py file adjusts particle size, speed, etc
 
+Currently just collision based particles, nothing fancy
+
 ## Useage
 * Run main_game_2.py
 
