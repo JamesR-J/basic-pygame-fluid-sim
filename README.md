@@ -7,7 +7,7 @@ Controls:
 * Delete - stops the consecutive wall chain so you can start a new one
 * ESC - Exits the game
 
-Currently no interaction with user placed walls
+Now interactions with user placed walls although not perfect yet
 
 Adjusting the parameters.py file adjusts particle size, speed, etc
 
@@ -16,7 +16,7 @@ Currently just collision based particles, nothing fancy
 ## Useage
 * Adjust display_size.py to suite your monitor best
 * Adjust any parameters in parameters.py for desired fluid properties
-* Run main_game_2.py
+* Run main_game_4.py
 
 ## Libraries
 * Pygame
